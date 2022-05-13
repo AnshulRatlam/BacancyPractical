@@ -1,0 +1,15 @@
+.div-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.custom-select {
+  
+    padding: 7px;
+    display: flex;
+  }
+  .form-cus{
+      padding: 1%;
+      border: 1px solid black;
+  }
